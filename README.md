@@ -1,16 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Zain%20Ul%20Abideen&fontSize=60&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20AI%20%7C%20UI%2FUX&descAlignY=55&descSize=20" width="100%"/>
+<!-- Animated twinkling-star gradient banner with name baked in server-side -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Zain%20Ul%20Abideen&fontSize=55&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20AI%20%7C%20UI%2FUX&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Full+Stack+Applications+with+MERN+%26+AI;Frontend+Engineer+%40+Intrasols;Final+Year+CS+Student+%E2%80%94+University+of+Agriculture%2C+Faisalabad;Design-obsessed+Developer+%7C+Dark+UI+Enthusiast&font=Fira+Code&center=true&width=780&height=50&color=00F0FF&vCenter=true&size=24&pause=1500&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Full+Stack+Applications+with+MERN+%26+AI;Frontend+Engineer+%40+Intrasols;Final+Year+CS+Student+%E2%80%94+University+of+Agriculture%2C+Faisalabad;Design-obsessed+Developer+%7C+Dark+UI+Enthusiast&font=Fira+Code&center=true&width=780&height=50&color=00F0FF&vCenter=true&size=22&pause=1500&background=00000000" alt="Typing SVG" />
 </a>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F0FF&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=00F0FF"/>
-<img src="https://img.shields.io/badge/Available_for-Freelance-00F0FF?style=flat-square"/>
+<!-- Floating waving hand + live coding gif, side by side -->
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60"/>
+<br/>
+<sub>Hey, I'm Zain — welcome to my profile!</sub>
+</td>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="320"/>
+</td>
+</tr>
+</table>
+
+<!-- Animated visitor / social proof strip -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=00F0FF"/>
+<img src="https://img.shields.io/badge/Available_for-Freelance-00F0FF?style=for-the-badge&logo=statuspage&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Animated floating tech icon strip -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,socketio,figma&theme=dark&perline=10" alt="tech icons"/>
 
 <br/><br/>
 
@@ -21,7 +42,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=3&section=header" width="100%"/>
 
 ## 👋 About Me
 
