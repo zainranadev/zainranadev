@@ -8,7 +8,7 @@
 
 <!-- Multi-line animated typing intro with faster pace + emoji punctuation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%94%A5+Forging+Full+Stack+Apps+with+MERN+%26+AI;%E2%9A%A1+Frontend+Engineer+%40+Spadasoft;%F0%9F%8E%93+Final+Year+CS+%E2%80%94+University+of+Agriculture%2C+Faisalabad;%F0%9F%8C%99+Dark+UI+%2B+Neon+Accents+%2B+Motion-Driven+Interfaces&font=Fira+Code&center=true&width=820&height=50&color=00F0FF&vCenter=true&size=22&pause=1400&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%94%A5+Forging+Full+Stack+Apps+with+MERN+%26+AI;%E2%9A%A1+Full+Stack+Engineer+%40+Spadasoft;%F0%9F%8E%93+Graduated+in+BS+CS+%E2%80%94+University+of+Agriculture%2C+Faisalabad;%F0%9F%8C%99+Dark+UI+%2B+Neon+Accents+%2B+Motion-Driven+Interfaces&font=Fira+Code&center=true&width=820&height=50&color=00F0FF&vCenter=true&size=22&pause=1400&background=00000000" alt="Typing SVG" />
 </a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55"/>
+<img src="https://user-images.githubusercontent.com/74038190/238200622-0b4dd8fa-a8f6-4d1e-a3c2-1e9d6e6e83fd.gif" width="55"/>
 <br/>
 <sub>Hey, I'm Zain — welcome!</sub>
 </td>
@@ -200,14 +200,14 @@ Dark, ember-accented design system, Framer Motion animations, rotating developer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zainranadev-5097s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainranadev-5097s&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=c9d1d9"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=zainranadev&theme=tokyonight&hide_border=true&background=00000000&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF"/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=00F0FF&line=8A2BE2&point=ffffff&area=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zainranadev&theme=react-dark&hide_border=true&bg_color=00000000&color=00F0FF&line=8A2BE2&point=ffffff&area=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zainranadev&theme=darkhub&no-frame=true&margin-w=10&column=7"/>
 
 </div>
 
