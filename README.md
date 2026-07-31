@@ -8,7 +8,7 @@
 
 <!-- Multi-line animated typing intro with faster pace + emoji punctuation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%94%A5+Forging+Full+Stack+Apps+with+MERN+%26+AI;%E2%9A%A1+Frontend+Engineer+%40+Intrasols;%F0%9F%8E%93+Final+Year+CS+%E2%80%94+University+of+Agriculture%2C+Faisalabad;%F0%9F%8C%99+Dark+UI+%2B+Neon+Accents+%2B+Motion-Driven+Interfaces&font=Fira+Code&center=true&width=820&height=50&color=00F0FF&vCenter=true&size=22&pause=1400&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%94%A5+Forging+Full+Stack+Apps+with+MERN+%26+AI;%E2%9A%A1+Frontend+Engineer+%40+Spadasoft;%F0%9F%8E%93+Final+Year+CS+%E2%80%94+University+of+Agriculture%2C+Faisalabad;%F0%9F%8C%99+Dark+UI+%2B+Neon+Accents+%2B+Motion-Driven+Interfaces&font=Fira+Code&center=true&width=820&height=50&color=00F0FF&vCenter=true&size=22&pause=1400&background=00000000" alt="Typing SVG" />
 </a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
