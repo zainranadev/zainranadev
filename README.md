@@ -1,31 +1,40 @@
 <div align="center">
 
-<!-- Animated twinkling-star gradient banner with name baked in server-side -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Zain%20Ul%20Abideen&fontSize=55&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20AI%20%7C%20UI%2FUX&descAlignY=58&descSize=18" width="100%"/>
+<!-- Animated matrix-style background strip -->
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/tools/vercel.svg" width="1" height="1"/>
 
+<!-- Bigger, richer animated header — twinkling + fireworks style -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:1B1035,75:302B63,100:24243E&height=280&section=header&text=Zain%20Ul%20Abideen&fontSize=58&fontColor=00F0FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20AI%20%7C%20UI%2FUX&descAlignY=55&descSize=19&stroke=8A2BE2&strokeWidth=1" width="100%"/>
+
+<!-- Multi-line animated typing intro with faster pace + emoji punctuation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Full+Stack+Applications+with+MERN+%26+AI;Frontend+Engineer+%40+Intrasols;Final+Year+CS+Student+%E2%80%94+University+of+Agriculture%2C+Faisalabad;Design-obsessed+Developer+%7C+Dark+UI+Enthusiast&font=Fira+Code&center=true&width=780&height=50&color=00F0FF&vCenter=true&size=22&pause=1500&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%94%A5+Forging+Full+Stack+Apps+with+MERN+%26+AI;%E2%9A%A1+Frontend+Engineer+%40+Intrasols;%F0%9F%8E%93+Final+Year+CS+%E2%80%94+University+of+Agriculture%2C+Faisalabad;%F0%9F%8C%99+Dark+UI+%2B+Neon+Accents+%2B+Motion-Driven+Interfaces&font=Fira+Code&center=true&width=820&height=50&color=00F0FF&vCenter=true&size=22&pause=1400&background=00000000" alt="Typing SVG" />
 </a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- Floating waving hand + live coding gif, side by side -->
+<!-- Floating wave hand + a second, faster live-coding gif for energy -->
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60"/>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55"/>
 <br/>
-<sub>Hey, I'm Zain — welcome to my profile!</sub>
+<sub>Hey, I'm Zain — welcome!</sub>
 </td>
-<td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="320"/>
+<td width="34%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="260"/>
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="180"/>
+<br/>
+<sub>always building something 🔥</sub>
 </td>
 </tr>
 </table>
 
-<!-- Animated visitor / social proof strip -->
+<!-- Animated stat strip -->
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=00F0FF"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=8A2BE2"/>
 <img src="https://img.shields.io/badge/Available_for-Freelance-00F0FF?style=for-the-badge&logo=statuspage&logoColor=white"/>
 
 <br/><br/>
@@ -42,7 +51,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:8A2BE2,100:00F0FF&height=3&section=header" width="100%"/>
 
 ## 👋 About Me
 
@@ -146,6 +155,32 @@ TipTap rich text editor, Zustand state management, Gemini-assisted writing, dual
 </td>
 <td width="50%">
 
+### ⚔️ TeamFlow
+**Real-time collaborative task manager**
+MERN + Socket.io, Kanban board, JWT auth, live presence tracking, activity feed, role-ranked membership.
+
+`MERN` `Socket.io` `JWT` `Kanban`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=vercel&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔨 DayCraft — Task Forge
+**Forge/fire-themed task management app**
+Neon ember aesthetic, iterative UI polish, structured task workflows.
+
+`React` `Tailwind` `Framer Motion`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=vercel&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
 ### 🎨 Portfolio Website
 **Personal developer portfolio**
 Dark, ember-accented design system, Framer Motion animations, rotating developer-identity taglines.
@@ -168,19 +203,22 @@ Dark, ember-accented design system, Framer Motion animations, rotating developer
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=c9d1d9"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=00F0FF&fire=8A2BE2&currStreakLabel=00F0FF"/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=00F0FF&line=00F0FF&point=ffffff"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=00F0FF&line=8A2BE2&point=ffffff&area=true"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=10&column=7"/>
 
 </div>
 
+<!-- Animated contribution snake -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🎯 Current Focus
+
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif"/>
 
 - 🚀 Building scalable, senior-grade MERN applications
 - 🤖 Deepening AI integration patterns (Gemini, prompt engineering)
@@ -188,11 +226,13 @@ Dark, ember-accented design system, Framer Motion animations, rotating developer
 - 🧪 Leveling up on testing & CI/CD pipelines
 - 🌍 Preparing for full-stack developer interviews
 
+<br clear="right"/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
 
-### 💬 
+### 💬
 > *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
 
 <br/>
