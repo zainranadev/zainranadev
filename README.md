@@ -57,9 +57,9 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
 
-- 🎓 Final-year **Computer Science** student at **University of Agriculture, Faisalabad**
-- 💼 Frontend Developer Intern @ **Intrasols**, Islamabad
-- 🏗️ Building **Sportrix** — an AI-powered sports club & tournament management platform (MERN + Socket.io + Google Gemini AI) as my Final Year Project
+- 🎓 Graduated in BS Computer Science 2026
+- 💼 Frontend Developer Intern @ **Spadasoft**, Lahore
+- 🏗️ Building **Sportrix** — an AI-powered sports management platform (MERN + Socket.io + Google Gemini AI) as my Final Year Project
 - 🧠 MERN Stack Developer with a strong pull toward **UI/UX design** and dark, visually rich interfaces
 - 🌱 Currently deepening senior-level engineering skills — real-time architecture, caching, multi-tenancy, testing, CI/CD
 - ⚡ Fun fact: I care as much about how the code *looks in the UI* as how it runs
